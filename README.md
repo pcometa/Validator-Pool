@@ -12,3 +12,4 @@ The ValidatorPool Smart Contract is a key component within our blockchain infras
 - **Compiler Version**: Solidity ^0.8.20
 - **License**: MIT
 - **Dependencies**: Utilizes interfaces from OpenZeppelin contracts.
+For support or further information, please [contact us](info@pcometaearth.com).
